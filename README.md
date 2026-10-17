@@ -2,12 +2,12 @@
 
 Co-founder of Global Accessibility Awareness Day. Builder of AI tools that help developers ship accessible software.
 
-Immediate Past Chair of the [GAAD Foundation](https://gaad.foundation), started with Jennison Asuncion on GAAD's tenth anniversary, and founder of [A11y Audits](https://a11yaudits.com), which audits products and writes VPATs and ACRs. Most of the code here asks one question: can AI make accessibility part of how software gets made, instead of an audit at the end?
+Immediate Past Chair of the [GAAD Foundation](https://gaad.foundation), started with Jennison Asuncion on GAAD's tenth anniversary, and founder of [A11y Audits](https://a11yaudits.com), which audits products and writes VPATs and ACRs. The code here is about getting accessibility into software while it is being written, not in an audit afterward.
 
 ## Current projects
 
 - **[AIMAC](https://github.com/GAAD-Foundation/AIMAC)**, the AI Model Accessibility Checker. It has language models generate web pages, runs axe-core on the results, and scores each model on serious and critical violations. Results at [aimac.ai](https://aimac.ai). A GAAD Foundation project, MIT licensed.
-- **[VisionScribe](https://github.com/joedevon/visionscribe)**, a Claude skill that writes alt text and image descriptions. It classifies an image as decorative, functional, informative or complex before writing, then gives you layered text you can paste into code or a CMS.
+- **[VisionScribe](https://github.com/joedevon/visionscribe)**, a skill for Claude and Codex that writes alt text and image descriptions using the best advice of accessibility experts. Share an image, say where it will be used, and get text ready to paste into code, a CMS or a document.
 
 ## GAAD
 
